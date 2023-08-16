@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/poolpool2/static/css/main.052545a0.css",
+    "main.js": "/poolpool2/static/js/main.1cd8d86c.js",
+    "static/media/Abel-Regular.ttf": "/poolpool2/static/media/Abel-Regular.3843f456cf56d275baf6.ttf",
+    "index.html": "/poolpool2/index.html",
+    "main.052545a0.css.map": "/poolpool2/static/css/main.052545a0.css.map",
+    "main.1cd8d86c.js.map": "/poolpool2/static/js/main.1cd8d86c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.052545a0.css",
+    "static/js/main.1cd8d86c.js"
+  ]
+}
